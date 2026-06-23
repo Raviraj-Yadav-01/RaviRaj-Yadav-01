@@ -1,6 +1,10 @@
 #  About Me:
 🛠️ About
-I am a passionate Software Developer focused on Mobile App Development, Backend Engineering, and Problem Solving.<br>-My primary expertise includes Flutter, Spring Boot, Java, Firebase, REST APIs, and MySQL. I enjoy building scalable applications that combine clean architecture, efficient backend services, and intuitive user experiences.<br>-I actively strengthen my Data Structures and Algorithms skills through regular problem-solving and continuously explore industry-standard software development practices.<br>-Currently, I am seeking opportunities to contribute, learn, and grow as a Software Engineer while building impactful products and solving real-world problems. <br>-Feel free to connect with me to discuss software development, technology, and collaboration opportunities.
+I am a passionate Software Developer focused on Mobile App Development, Backend Engineering, and Problem Solving.
+<br> -> My primary expertise includes Flutter, Spring Boot, Java, Firebase, REST APIs, and MySQL. I enjoy building scalable applications that combine clean architecture, efficient backend services, and intuitive user experiences.
+<br> -> I actively strengthen my Data Structures and Algorithms skills through regular problem-solving and continuously explore industry-standard software development practices.
+<br> -> Currently, I am seeking opportunities to contribute, learn, and grow as a Software Engineer while building impactful products and solving real-world problems. 
+<br> -> Feel free to connect with me to discuss software development, technology, and collaboration opportunities.
 
 
 ## 🌐 Socials:
